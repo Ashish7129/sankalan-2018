@@ -20,8 +20,8 @@ algoholics:
       The qualifying teams would be given a set of problems to develop an algorithm/pseudo-code on.
       The problems are to be solved overnight at their own places and next day they have to present their solution to judges for evaluation.
   details:
-    - hello world
-    - bye world
+    - Contact for details
+    - Divya : +91-9654939934
 
 codeathon:
   title: Code-a-thon
@@ -122,7 +122,7 @@ mind-matters:
   rounds:
     - Multiple-choice questions based on Computer Science and IT world.
     - |-
-      The qualifying teams would compete in the Event's Main Quiz.(On the first day of intra-sankalan)
+      The qualifying teams would compete in the Event's Main Quiz.
 
 spin-a-web:
   title: Spin a Web
@@ -178,8 +178,9 @@ chakravyuh:
     - 'Date: 2nd-4th March 2018. (tentative)'
     - 'Start Time: 10:00 pm.'
     - Step forward in the arena and join the battle! Contact for details.
-
-turncoat:
+    - Contact for details: 
+    - Amol : +91-7982638122
+Turn Coat:
   title: Turn Coat
   description: Get ready to drive through a battle of thoughts with your own self on a buzzer press.
   islive: false
@@ -192,7 +193,9 @@ turncoat:
     - Two participants will be given the same topic to speak. Alternatively, they will have to speak in favor and against.
     - All qualifying participants will be given the same topic to speak. They would randomly be asked to present their views in contradiction to the previous speaker.
   details:
-    - 'Contact for details: Ramneek, Divya'
+    - Contact for details: 
+    - Ramneek : +91-8800860824
+    - Divya : +91-9654939934
 
 jam:
   title: Just A Minute (JAM)
@@ -205,5 +208,48 @@ jam:
   details:
     - Games would have to be completed in a minute period.
     - A maximum of 72 teams would be allowed.
+Technospeak:
+  title: Technospeak
+  description: Sankalan 2018 in Association with The Defence Research and Development Organisation(DRDO) presents Workshop on Information Security: 
+  We invite the participants to make a presentation on a topic in Security issues in crypto-currency. The participants are expected to write an article​ on a topic of their choice ​with​in​ the scope of ​crypto-currency. The article may be ​based on ​original research or a review article of ​the​ work in some area within the domain of security in crypto-currency. 
+  islive: false
+  isover: false
+  image: https://4.bp.blogspot.com/-xqZ2bTz2Yfw/WoVRnH61zPI/AAAAAAAAAH4/aCy-xnxDp-IjpDjDy6Lor6iLODv2CfhAQCLcBGAs/s1600/technospeak.png
 
-# https://4.bp.blogspot.com/-xqZ2bTz2Yfw/WoVRnH61zPI/AAAAAAAAAH4/aCy-xnxDp-IjpDjDy6Lor6iLODv2CfhAQCLcBGAs/s1600/technospeak.png
+ rounds:
+  - Participants should mail their article to technospeak@ducs.in with subject as ‘Workshop on security issues in Crypto-currency’ 
+  - Subsequently, based on technical review, the authors of the best eight selected articles would be invited to give a presentation of their topics (10-20 minutes) on 11th March 2018 at Department of Computer Science ,University of Delhi. 
+
+ details:
+  - |-
+  <strong>Requirements as follows for first round:</strong>
+ <ol>
+   <li> Format of the article: PDF  </li> 
+   <li> Font : Times New Roman   </li>
+   <li> Size: 14.  </li>
+   <li>The article should include an abstract. The articles should be restricted to 10 pages.Other details to be submitted along with the article: Contact details of the participants (maximum Two), </li> 
+   <li> Name, Email Id,College,Contact Number. </li>
+  <strong>Last date of submission is March 4, 2018.</strong>
+  
+  - Note that this workshop is open for students of Departments of Computer Science as well.  
+  - Contact for details:   
+  - Ajay Jajoo : +91-7015582520
+  
+Junkyard Wars:
+  title: Junkyard Wars
+  description: In this event the participants gets a chance to involve and explore the domain of dekstop's brain. 
+  islive: false
+  isover: false
+  image: //
+  
+  rounds:
+    - (Visual Round)This round will have audio-visual questions regarding the CPU hardware. 
+    - (CPU Assembly Round)This will be a practical round ,participants will have to assemble a PC from scratch.
+    
+  
+  details:
+    - Participants will be judged on the basis of speed and cable management. The teams which assembles and boot the CPU first will be declared as the winner. 
+    - Contact for details : 
+    - Ashish : +91-9990395650
+
+  
